@@ -7328,88 +7328,32 @@
       }
     },
     {
-      "name": "Spheal",
-      "sprites": {
-        "front": "https://img.pokemondb.net/sprites/black-white/normal/spheal.png",
-        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
-      },
+      "name": "adam",
       "stats": [
         {
           "name": "hp",
           "value": "123"
         }
       ],
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/black-white/shiny/spheal.png",
+        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
+      },
       "id": 207
     },
     {
-      "name": "spheal2",
-      "sprites": {
-        "front": "https://img.pokemondb.net/sprites/black-white/normal/spheal.png",
-        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
-      },
+      "name": "amanda",
       "stats": [
         {
           "name": "hp",
-          "value": "2"
+          "value": "9000"
         }
       ],
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/black-white/shiny/spheal.png",
+        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
+      },
       "id": 208
-    },
-    {
-      "name": "spheal3",
-      "sprites": {
-        "front": "https://img.pokemondb.net/sprites/black-white/shiny/spheal.png",
-        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
-      },
-      "stats": [
-        {
-          "name": "hp",
-          "value": "3"
-        }
-      ],
-      "id": 209
-    },
-    {
-      "name": "spheal3",
-      "sprites": {
-        "front": "https://img.pokemondb.net/sprites/black-white/shiny/spheal.png",
-        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
-      },
-      "stats": [
-        {
-          "name": "hp",
-          "value": "3"
-        }
-      ],
-      "id": 210
-    },
-    {
-      "name": "spheal3",
-      "sprites": {
-        "front": "https://img.pokemondb.net/sprites/black-white/shiny/spheal.png",
-        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
-      },
-      "stats": [
-        {
-          "name": "hp",
-          "value": "3"
-        }
-      ],
-      "id": 211
-    },
-    {
-      "name": "spheal4",
-      "sprites": {
-        "front": "https://img.pokemondb.net/sprites/black-white/normal/spheal.png",
-        "back": "https://img.pokemondb.net/sprites/black-white/back-normal/spheal.png"
-      },
-      "stats": [
-        {
-          "name": "hp",
-          "value": "4"
-        }
-      ],
-      "id": 212
     }
   ]
 }
